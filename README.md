@@ -13,7 +13,7 @@ Você irá alugar e devolver boardgames no AluGames
 
 ## Quer jogar ?
 
-Acesse o jogo pelo [JOGUE AQUI](https://alura-games-lemon.vercel.app/)
+Acesse o jogo pelo [TESTE AQUI](https://e-ticket-alura.vercel.app/)
 
 <img src="./assets//Captura de tela 2025-01-29 181119.png">
 
